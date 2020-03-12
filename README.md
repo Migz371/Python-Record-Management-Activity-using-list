@@ -1,2 +1,3 @@
-# Python-Record-Management-Activity-using-list
-Activity that can be used for future reference
+Python Record list where you can Add,Edit,Delete,View items by the use of list
+
+This is only an activity to refresh programming skill and be used for future references
